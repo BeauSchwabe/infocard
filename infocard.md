@@ -10,7 +10,9 @@ open_to: [full-time, contract, consulting]
 # George (Beau) Schwabe
 
 **Lead Software & Automation Engineer** · Guthrie, Oklahoma
-[icpusher@gmail.com](mailto:icpusher@gmail.com) · [GitHub](https://github.com/BeauSchwabe) · [LinkedIn](https://www.linkedin.com/in/beau-schwabe-025b056/)
+
+
+[icpusher@gmail.com](mailto:icpusher@gmail.com) · [Project Portfolio](https://www.weathersiren.com/Portfolio/) · [GitHub](https://github.com/BeauSchwabe) · [LinkedIn](https://www.linkedin.com/in/beau-schwabe-025b056/)
 
 ---
 

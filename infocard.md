@@ -3,7 +3,7 @@ name: George (Beau) Schwabe
 title: Lead Software & Automation Engineer
 location: Guthrie, Oklahoma
 summary: Whole-stack engineer and electronics designer specializing in custom Dashboard control from Front End / Back End and PCB Hardware development
-tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB design, ESP32]
+tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, design, Schematic, microcontroller, circuit, board]
 open_to: [full-time, contract, consulting]
 ---
 

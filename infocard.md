@@ -118,6 +118,9 @@ for scheduled public releases
 ## Education
 
 **IC layout design 2000-2004** — National Semiconductor Campus  San Jose, CA
+
 **Engineering 1990-1992** — Oklahoma State University           Oklahoma City, OK
+
 **Engineering 1988-1989** — Central State University            Edmond, OK
+
 **Pre-Med Engineering 1987-1988** — Westminster College         Fulton, MO

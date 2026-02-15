@@ -109,11 +109,13 @@ for scheduled public releases
 
 ## Skills
 
-| Category   | Technologies                           |
-|------------|----------------------------------------|
-| Languages  | Python, Perl, JavaScript, PIC Assembly |
-| Infra      | Digital Ocean, RasPi                   |
-| Data       | HTML5 SSE API, Socket, MQTT, MySQL     |
+| Category      | Technologies                             |
+|---------------|------------------------------------------|
+| Languages     | Python, Perl, JavaScript, PIC Assembly   |
+| Design        | PCB, Schematic                           |
+| Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, etc. |
+| Infra         | Digital Ocean, RasPi                     |
+| Data          | HTML5 SSE API, Socket, MQTT, MySQL       |
 
 ## Education
 

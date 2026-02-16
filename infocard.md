@@ -6,7 +6,6 @@ summary: Whole-stack engineer and electronics designer specializing in custom Da
 tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, ESP8266, design, Schematic, microcontroller, circuit, board, Arduino, BLDC, Accelerometer, IMU, Gyro, ToF, Linear Actuator, Servo, Inductive, Coil, LVDT, GPS, WiFi, BLE, BT]
 open_to: [full-time, contract, consulting]
 
-last updated: [02/16/2026]
 ---
 
 # George (Beau) Schwabe
@@ -16,6 +15,7 @@ last updated: [02/16/2026]
 
 [icpusher@gmail.com](mailto:icpusher@gmail.com) \>\> [Project Portfolio](https://www.weathersiren.com/Portfolio/) \<\< [GitHub](https://github.com/BeauSchwabe) ·· [LinkedIn](https://www.linkedin.com/in/beau-schwabe-025b056/)
 
+last updated: 02/16/2026
 
 ---
 

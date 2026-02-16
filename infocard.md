@@ -119,8 +119,10 @@ for scheduled public releases.
 
 
 ## Published Articles
-March 2016 Nuts and Volts magazine - Techniques to Improve Your Signal-to-Noise Ratio 
+March 2016 Nuts and Volts magazine - Techniques to Improve Your Signal-to-Noise Ratio
+
 April 2009 Nuts and Volts magazine - Inductive Proximity Sensors Part 2
+
 April 2009 Nuts and Volts magazine - Inductive Proximity Sensors Part 1
 
 Reference: https://www.nutsvolts.com/magazine/contributor/beau_schwabe

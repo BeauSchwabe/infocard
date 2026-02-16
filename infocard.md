@@ -42,10 +42,8 @@ Veteran Electronic Design Engineer and Software Developer with over 35 years of 
 *Jun 2019 – Jun 2022*
 
 - Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs based on client's request.
-- Wrote programs using a variety of computer languages, such as PIC microcontroller
-Assembly, Arduino, Perl, Python, Javascript, and native 4DSystem.
-- Collaborated with mechanical engineers to resolve product development and maintenance
-issues.
+- Wrote programs using a variety of computer languages, such as PIC microcontroller Assembly, Arduino, Perl, Python, Javascript, and native 4DSystem.
+- Collaborated with mechanical engineers to resolve product development and maintenance issues.
 
 ### Software Programmer — 4kConcepts
 *Feb 2014 – Mar 2019*
@@ -54,8 +52,7 @@ issues.
 - Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs.
 - Designed, tested and evaluated mechanical and electro-mechanical devices and systems.
 - Designed, developed and implemented firmware to support new product concepts on embedded systems.
-- Collaborated with mechanical engineers to resolve product development and maintenance
-issues.
+- Collaborated with mechanical engineers to resolve product development and maintenance issues.
 
 ### IC Layout Engineer — Parallax Inc.
 *Jun 2005 – Oct 2014*
@@ -64,9 +61,7 @@ issues.
 equipment. i.e. Sensors, Motors, Accelerometers, Gyros, etc.
 - Utilized Laker Software for the creation and implementation of layout design workflows.
 - Designed Full custom IC layout on a multi core processor
-- Provided countless code example demonstrations for our customer database explaining
-how to interface and use many different kinds of sensors, devices and communications
-protocols we had to offer.
+- Provided countless code example demonstrations for our customer database explaining how to interface and use many different kinds of sensors, devices and communications protocols we had to offer.
 
 ### Layout Mask Designer IV — National Semiconductor
 *Jun 2000 – Jun 2005*
@@ -84,10 +79,8 @@ protocols we had to offer.
     * Standard cell library and characterization for a target 110nm process
     * Developed test structures in 65nm and 45nm process
 
-- Collaborated with engineers to discuss existing and potential engineering projects and
-products.
-- Worked efficiently under strict deadlines to make sure that new products were available
-for scheduled public releases.
+- Collaborated with engineers to discuss existing and potential engineering projects and products.
+- Worked efficiently under strict deadlines to make sure that new products were available for scheduled public releases.
 
 ### Electronic Design Specialist — Sabolich Prosthetics
 *Jun 1990 – Jun 2000*

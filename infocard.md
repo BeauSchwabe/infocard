@@ -3,8 +3,10 @@ name: George (Beau) Schwabe
 title: Lead Software & Automation Engineer
 location: Guthrie, Oklahoma
 summary: Whole-stack engineer and electronics designer specializing in custom Dashboard control from Front End / Back End and PCB Hardware development
-tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, ESP8266, design, Schematic, microcontroller, circuit, board, Arduino, BLDC, Accelerometer, IMU, Gyro, ToF, Linear Actuator, Servo, Inductive, Coil, LVDT]
+tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, ESP8266, design, Schematic, microcontroller, circuit, board, Arduino, BLDC, Accelerometer, IMU, Gyro, ToF, Linear Actuator, Servo, Inductive, Coil, LVDT, GPS, WiFi, BLE, BT]
 open_to: [full-time, contract, consulting]
+
+last updated: [02/16/2026]
 ---
 
 # George (Beau) Schwabe
@@ -105,14 +107,14 @@ equipment. i.e. Sensors, Motors, Accelerometers, Gyros, etc.
 ## Skills
 
 | Category      | Detail                             |
-|---------------|------------------------------------------------------------|
-| Languages     | Python, Perl, JavaScript, PIC Assembly, Arduino            |
-| Design        | PCB, Schematic, 3D modeling                                |
-| Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, etc.                   |
-| Sensors       | ToF, IMU, Doppler, Accelerometer, Inductive, IR, Gyro, LVDT |
-| Hardware      | Servo Motors, Linear actuators, BLDC motors, DC Motors     |
-| Infra         | Digital Ocean, RasPi                                       |
-| Data          | HTML5, SSE API, Socket, MQTT, MySQL                        |
+|---------------|------------------------------------------------------------------|
+| Languages     | Python, Perl, JavaScript, PIC Assembly, Arduino                  |
+| Design        | PCB, Schematic, 3D modeling                                      |
+| Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, WiFi, BLE, etc.              |
+| Sensors       | ToF, IMU, Doppler, Accelerometer, Inductive, IR, Gyro, LVDT, GPS |
+| Hardware      | Servo Motors, Linear actuators, BLDC motors, DC Motors           |
+| Infra         | Digital Ocean, RasPi                                             |
+| Data          | HTML5, SSE API, Socket, MQTT, MySQL                              |
 
 
 ## Published Articles

@@ -3,7 +3,7 @@ name: George (Beau) Schwabe
 title: Lead Software & Automation Engineer
 location: Guthrie, Oklahoma
 summary: Whole-stack engineer and electronics designer specializing in custom Dashboard control from Front End / Back End and PCB Hardware development
-tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, ESP8266, design, Schematic, microcontroller, circuit, board, Arduino, BLDC, Accelerometer, IMU, Gyro, ToF, Linear Actuator, Servo, Inductive, Coil, LVDT]
+tags: [HTML, CSS, JavaScript, Python, Perl, MQTT, IoT, Assembly language, PCB, Code, ESP32, design, Schematic, microcontroller, circuit, board]
 open_to: [full-time, contract, consulting]
 ---
 
@@ -18,39 +18,43 @@ open_to: [full-time, contract, consulting]
 
 ## About
 
-Veteran Electronic Design Engineer and Software Developer with over 35 years of experience in hardware and software integration. I am particularly known for my extensive work with embedded systems, specifically utilizing PIC Assembly and PCB design solutions.
+In the early 80's, I taught myself 6502 Assembly language when I was 12
 
-- Dual US patent holder
-- Designed an audio [Spectrum Analyzer](https://github.com/BeauSchwabe/Audio-Spectrum-Analyzer/blob/main/Propeller%20Spectrum%20Analyzer%20for%20Audio.pdf) from scratch simply for a proof of concept.
+About the same time I figured out how to programatically use the Joystick 'input' ports, the default, as 'output' ports to control "The outside world".
+This was my Arduino in the early 80's controlling motors, lights, relays, etc.  
 
+I have extensive experience in schematic and PCB design, firmware programming (Arduino, ATtiny, ESP32, ESP8266, PIC, XIAO_NR54L15, etc.), web design, application design, and 3D modeling.
 
+My background includes roles at National Semiconductor, Allied High Tech Products, Parallax Inc., and at Sabolich Prosthetic Research and Development department
 
-## Professional Background
+## Experience
 
 ### Lead Software and Automation Engineer — CODEX Energy
 *Jun 2022 – April 2025*
 
-- I led the full-stack development of a custom, highly scalable, and robust industrial communication system.
-- Facing constraints posed by supply chain shortages of specialized ICs., I engineered an innovative new hardware design with components that were more readily available.
-- Designed a "Fuzzy Logic" communication archetecture to increase bandwidth and create a self healing system.
-- Designed custom PCBs an schematics throuought the entire communications system.
+- I led the full-stack development of a custom, highly scalable, and robust industrial communication system
+- Facing constraints posed by supply chain shortages of specialized CANbus ICs., I engineered an innovative new hardware design with components that were more readily available.
+- Designed a "Fuzzy Logic" communication approach to create a self healing system with increased bandwidth
 
 ### Project Manager, designer, programmer — Oklahoma Robotics LLC.
 *Jun 2019 – Jun 2022*
 
-- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs based on clients request.
+- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide
+designs
 - Wrote programs using a variety of computer languages, such as PIC microcontroller
-Assembly, Arduino, Perl, Python, Javascript, and native 4DSystem.
+Assembly, Arduino, Perl, Python, Javascript, and native 4DSystem
 - Collaborated with mechanical engineers to resolve product development and maintenance
 issues.
 
 ### Software Programmer — 4kConcepts
 *Feb 2014 – Mar 2019*
 
-- Designed and tested forensic machines to reverse engineer IC’s.
-- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs.
+- Designed and tested forensic machines to reverse engineer IC’s
+- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide
+designs.
 - Designed, tested and evaluated mechanical and electro-mechanical devices and systems.
-- Designed, developed and implemented firmware to support new product concepts on embedded systems.
+- Designed, developed and implemented firmware to support new product concepts on
+embedded systems.
 - Collaborated with mechanical engineers to resolve product development and maintenance
 issues.
 
@@ -78,13 +82,12 @@ protocols we had to offer.
     * Noise cancellation IC's for Qualcomm
     * High-speed SerDes communication
     * ADCs and DACs ranging from 2.5 Gb/s to 10 Gb/s
-    * Standard cell library and characterization for a target 110nm process
-    * Developed test structures in 65nm and 45nm process
+    * Standard cell library and characterization for a target 110nm Process
 
 - Collaborated with engineers to discuss existing and potential engineering projects and
 products.
 - Worked efficiently under strict deadlines to make sure that new products were available
-for scheduled public releases.
+for scheduled public releases
 
 ### Electronic Design Specialist — Sabolich Prosthetics
 *Jun 1990 – Jun 2000*
@@ -94,8 +97,9 @@ for scheduled public releases.
     * Provided technical support for major clinical trials.
     * Human Gait Analysis (Kinesiology physics)
     * Dual US patent holder
-        o US 6287253 B1 - Pressure ulcer condition sensing and monitoring.
-        o US 6500210 B1 - System and method for providing a sense of feel in a prosthetic or sensory impaired limb.
+        o Pressure ulcer condition sensing and monitoring …. US 6287253 B1
+        o System and method for providing a sense of feel in a prosthetic or sensory
+        impaired limb …. US 6500210 B1
 
 - Coded all device software and designed all board layouts for sensory systems below:
     * S.O.F. (Sense of Feel) prosthetic device allowing amputees to electrically “feel” varying amounts of pressure associated with sensors located at the end of a prosthetic arm or leg.
@@ -107,24 +111,13 @@ for scheduled public releases.
 
 ## Skills
 
-| Category      | Detail                             |
-|---------------|------------------------------------------------------------|
-| Languages     | Python, Perl, JavaScript, PIC Assembly, Arduino            |
-| Design        | PCB, Schematic, 3D modeling                                |
-| Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, etc.                   |
-| Sensors       | ToF, IMU, Dopler, Accelerometer, Inductive, IR, Gyro, LVDT |
-| Hardware      | Servo Motors, Linear actuators, BLDC motors, DC Motors     |
-| Infra         | Digital Ocean, RasPi                                       |
-| Data          | HTML5, SSE API, Socket, MQTT, MySQL                        |
-
-
-## Published Articles
-March 2016 Nuts and Volts magazine - Techniques to Improve Your Signal-to-Noise Ratio 
-April 2009 Nuts and Volts magazine - Inductive Proximity Sensors Part 2
-April 2009 Nuts and Volts magazine - Inductive Proximity Sensors Part 1
-
-Reference: https://www.nutsvolts.com/magazine/contributor/beau_schwabe
-
+| Category      | Technologies                             |
+|---------------|------------------------------------------|
+| Languages     | Python, Perl, JavaScript, PIC Assembly   |
+| Design        | PCB, Schematic                           |
+| Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, etc. |
+| Infra         | Digital Ocean, RasPi                     |
+| Data          | HTML5 SSE API, Socket, MQTT, MySQL       |
 
 ## Education
 

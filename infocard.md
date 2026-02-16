@@ -130,6 +130,8 @@ Reference: https://www.nutsvolts.com/magazine/contributor/beau_schwabe
 
 ## Education
 
+**Self Taught 1969-Present** — LIFE - Learning Is Fundamentally Essential
+
 **IC layout design 2000-2004** — National Semiconductor Campus  San Jose, CA
 
 **Engineering 1990-1992** — Oklahoma State University           Oklahoma City, OK

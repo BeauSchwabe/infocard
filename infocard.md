@@ -32,13 +32,13 @@ Veteran Electronic Design Engineer and Software Developer with over 35 years of 
 
 - I led the full-stack development of a custom, highly scalable, and robust industrial communication system.
 - Facing constraints posed by supply chain shortages of specialized ICs., I engineered an innovative new hardware design with components that were more readily available.
-- Designed a "Fuzzy Logic" communication archetecture to increase bandwidth and create a self healing system.
-- Designed custom PCBs an schematics throuought the entire communications system.
+- Designed a "Fuzzy Logic" communication architecture to increase bandwidth and create a self healing system.
+- Designed custom PCBs and schematics throughout the entire communications system.
 
 ### Project Manager, designer, programmer — Oklahoma Robotics LLC.
 *Jun 2019 – Jun 2022*
 
-- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs based on clients request.
+- Conceived, designed and tested electronic circuit prototypes to prove concepts and guide designs based on client's request.
 - Wrote programs using a variety of computer languages, such as PIC microcontroller
 Assembly, Arduino, Perl, Python, Javascript, and native 4DSystem.
 - Collaborated with mechanical engineers to resolve product development and maintenance
@@ -58,7 +58,7 @@ issues.
 *Jun 2005 – Oct 2014*
 
 - This is an educational robotics company with several micro controllers and interface
-equipment. i.e. Sensors, Motors, Accelerometers, Gyro's, etc.
+equipment. i.e. Sensors, Motors, Accelerometers, Gyros, etc.
 - Utilized Laker Software for the creation and implementation of layout design workflows.
 - Designed Full custom IC layout on a multi core processor
 - Provided countless code example demonstrations for our customer database explaining
@@ -112,7 +112,7 @@ for scheduled public releases.
 | Languages     | Python, Perl, JavaScript, PIC Assembly, Arduino            |
 | Design        | PCB, Schematic, 3D modeling                                |
 | Communication | I2C, SPI, UART, CAN, 1-Wire, RS485, etc.                   |
-| Sensors       | ToF, IMU, Dopler, Accelerometer, Inductive, IR, Gyro, LVDT |
+| Sensors       | ToF, IMU, Doppler, Accelerometer, Inductive, IR, Gyro, LVDT |
 | Hardware      | Servo Motors, Linear actuators, BLDC motors, DC Motors     |
 | Infra         | Digital Ocean, RasPi                                       |
 | Data          | HTML5, SSE API, Socket, MQTT, MySQL                        |

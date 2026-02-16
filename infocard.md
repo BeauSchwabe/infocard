@@ -21,6 +21,9 @@ open_to: [full-time, contract, consulting]
 Veteran Electronic Design Engineer and Software Developer with over 35 years of experience in hardware and software integration. I am particularly known for my extensive work with embedded systems, specifically utilizing PIC Assembly and PCB design solutions.
 
 - Dual US patent holder
+    * US Patent 6,287,253 B1 - [Pressure ulcer condition sensing and monitoring](https://patents.google.com/patent/US7269253B1/en)
+    * US Patent 6,500,210 B1 - [System and method for providing a sense of feel in a prosthetic or sensory impaired limb](https://patents.google.com/patent/US6500210B1/en)
+     
 - Designed an audio [Spectrum Analyzer](https://github.com/BeauSchwabe/Audio-Spectrum-Analyzer/blob/main/Propeller%20Spectrum%20Analyzer%20for%20Audio.pdf) from scratch simply for a proof of concept.
 
 

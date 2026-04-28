@@ -18,7 +18,10 @@ open_to: [full-time, contract, consulting]
 last updated: 04/28/2026
 
 ---
-## Just for Fun Weather program I wrote (It is still work in progress) (https://www.weathersiren.com/)
+## Just for Fun 
+Weather program I wrote (It is still work in progress) (https://www.weathersiren.com/) .. Works best from a PC but functional on a Phone.
+8 Zone Sprinkler Controller I designed from Dashboard to PCB (https://www.weathersiren.com/Sprinkler/)
+
 
 ## About
 

@@ -15,9 +15,10 @@ open_to: [full-time, contract, consulting]
 
 [icpusher@gmail.com](mailto:icpusher@gmail.com) \>\> [Project Portfolio](https://www.weathersiren.com/Portfolio/) \<\< [GitHub](https://github.com/BeauSchwabe) ·· [LinkedIn](https://www.linkedin.com/in/beau-schwabe-025b056/)
 
-last updated: 02/16/2026
+last updated: 04/28/2026
 
 ---
+## Just for Fun Weather program I wrote (It is still work in progress) (https://www.weathersiren.com/)
 
 ## About
 
